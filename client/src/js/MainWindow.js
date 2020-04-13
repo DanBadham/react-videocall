@@ -17,7 +17,7 @@ function MainWindow({ startCall, clientId }) {
     <div className="container main-window">
       <div>
         <h3>
-          Hi, your ID is
+          Hi, your Party ID is
           <input
             type="text"
             className="txt-clientId"
